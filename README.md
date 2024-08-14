@@ -1,4 +1,4 @@
-# Invisibility Cloak Magic
+# Invisibility Cloak Magic Using OpenCV
 
 This project is a fun and interactive application inspired by the magical world of Harry Potter, where you can experience the illusion of invisibility using just a webcam and some basic Python code. The application uses OpenCV to detect a specific color in real-time video and replaces that area with the background, creating a "cloak of invisibility" effect.
 
