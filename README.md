@@ -25,7 +25,18 @@ This project is a fun and interactive application inspired by the magical world 
 - OpenCV
 - NumPy
 
+
+### Run the script:
+
+- python app.py
+- The webcam feed will start, and you can experience the invisibility effect by wearing a blue-colored cloak or fabric.
+= Press q to exit the application.
+
 You can install the necessary packages using pip:
 
 ```bash
 pip install opencv-python-headless numpy
+
+
+
+
